@@ -1,4 +1,4 @@
-# CSE_6040_EC
+# YouTube Trending Project
 
 ## SUMMARY
 
